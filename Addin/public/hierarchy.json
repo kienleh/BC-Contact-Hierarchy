@@ -1,0 +1,65 @@
+{
+    "contactNo": "KT100006",
+    "contactName": "A. Gibsons Law Firm",
+    "contactType": 0,
+    "persons": [
+        {
+            "contactNo": "KT200057",
+            "contactName": "Alan Brewer",
+            "contactType": 1
+        },
+        {
+            "contactNo": "KT200116",
+            "contactName": "David Oliver Lawrence",
+            "contactType": 1
+        },
+        {
+            "contactNo": "KT200118",
+            "contactName": "Lori Kane",
+            "contactType": 1
+        }
+    ],
+    "parentContact": {
+        "contactNo": "KT000254",
+        "contactName": "Apparaturen GmbH",
+        "contactType": 0,
+        "persons": [],
+        "parentContact": {
+            "contactNo": "KT100011",
+            "contactName": "Add-ON Marketing",
+            "contactType": 0,
+            "persons": [
+                {
+                    "contactNo": "KT100190",
+                    "contactName": "Chris McGurk",
+                    "contactType": 1
+                },
+                {
+                    "contactNo": "KT200008",
+                    "contactName": "Gary E. Altman III",
+                    "contactType": 1
+                },
+                {
+                    "contactNo": "KT200047",
+                    "contactName": "Mathew Charles",
+                    "contactType": 1
+                },
+                {
+                    "contactNo": "KT200104",
+                    "contactName": "Paul Komosinski",
+                    "contactType": 1
+                },
+                {
+                    "contactNo": "KT200119",
+                    "contactName": "Kimberly B. Zimmermann",
+                    "contactType": 1
+                },
+                {
+                    "contactNo": "KT200134",
+                    "contactName": "Steven B. Levy",
+                    "contactType": 1
+                }
+            ]
+        }
+    }
+}
