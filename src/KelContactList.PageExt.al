@@ -25,8 +25,6 @@ pageextension 92404 "KEL Contact List" extends "Contact List"
                 ApplicationArea = All;
                 Caption = 'Relations';
                 SubPageLink = "No." = field("No.");
-
-                Visible = false;
             }
         }
     }
